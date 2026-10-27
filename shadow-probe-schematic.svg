@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="880" viewBox="0 0 1240 880" font-family="Arial, Helvetica, sans-serif">
+<defs><marker id="arrO" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#e07b00"/></marker><marker id="arrD" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#334155"/></marker></defs>
+<rect x="0" y="0" width="1240" height="880" fill="#f7f5ef"/>
+<text x="40" y="52" font-size="36" font-weight="bold" fill="#1f2937">SHADOW PROBE</text>
+<text x="40" y="82" font-size="18" fill="#475569">System schematic — safely relay and harvest the sun&apos;s energy</text>
+<rect x="900" y="18" width="300" height="128" fill="#fef9c3" stroke="#854d0e" stroke-width="1.5"/>
+<text x="916" y="44" font-size="15" font-weight="bold" fill="#713f12">OPEN — Curtis to decide</text>
+<text x="916" y="68" font-size="13" fill="#422006">1. Relay form: microwave vs laser</text>
+<text x="916" y="88" font-size="13" fill="#422006">   vs station-to-station chain</text>
+<text x="916" y="110" font-size="13" fill="#422006">2. Closest approach to the sun</text>
+<text x="916" y="130" font-size="13" fill="#422006">3. Shield material</text>
+<line x1="257" y1="420" x2="283" y2="420" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="243" y1="474" x2="265" y2="486" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="204" y1="513" x2="216" y2="535" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="150" y1="527" x2="150" y2="553" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="97" y1="513" x2="84" y2="535" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="57" y1="474" x2="35" y2="486" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="43" y1="420" x2="17" y2="420" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="57" y1="366" x2="35" y2="354" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="96" y1="327" x2="83" y2="305" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="150" y1="313" x2="150" y2="287" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="204" y1="327" x2="216" y2="305" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<line x1="243" y1="366" x2="265" y2="353" stroke="#e07b00" stroke-width="5" stroke-linecap="round"/>
+<circle cx="150" cy="420" r="95" fill="#f5a623" stroke="#b45309" stroke-width="3"/>
+<circle cx="150" cy="420" r="55" fill="#fbbf24"/>
+<text x="150" y="580" font-size="17" font-weight="bold" fill="#1f2937" text-anchor="middle">THE SUN</text>
+<text x="150" y="602" font-size="14" fill="#475569" text-anchor="middle">energy source</text>
+<text x="300" y="300" font-size="15" font-weight="bold" fill="#b45309">SUNLIGHT</text>
+<line x1="290" y1="350" x2="440" y2="350" stroke="#e07b00" stroke-width="4" marker-end="url(#arrO)"/>
+<line x1="290" y1="420" x2="440" y2="420" stroke="#e07b00" stroke-width="4" marker-end="url(#arrO)"/>
+<line x1="290" y1="490" x2="440" y2="490" stroke="#e07b00" stroke-width="4" marker-end="url(#arrO)"/>
+<path d="M 478,300 Q 528,420 478,540" fill="none" stroke="#334155" stroke-width="16" stroke-linecap="round"/>
+<text x="380" y="262" font-size="15" font-weight="bold" fill="#1f2937">HEAT SHIELD</text>
+<text x="380" y="282" font-size="13" fill="#475569">faces the sun, takes the heat</text>
+<line x1="452" y1="288" x2="478" y2="312" stroke="#334155" stroke-width="1.5"/>
+<polygon points="492,312 492,528 720,592 720,248" fill="#dbe4ec" fill-opacity="0.6" stroke="#64748b" stroke-width="1.5" stroke-dasharray="8,5"/>
+<text x="560" y="272" font-size="15" font-weight="bold" fill="#334155">SHADOW ZONE</text>
+<text x="560" y="292" font-size="13" fill="#475569">instruments live in the shade</text>
+<rect x="585" y="178" width="100" height="62" fill="#1d4ed8" stroke="#172554" stroke-width="2"/>
+<line x1="605" y1="178" x2="605" y2="240" stroke="#93c5fd" stroke-width="1"/>
+<line x1="625" y1="178" x2="625" y2="240" stroke="#93c5fd" stroke-width="1"/>
+<line x1="645" y1="178" x2="645" y2="240" stroke="#93c5fd" stroke-width="1"/>
+<line x1="665" y1="178" x2="665" y2="240" stroke="#93c5fd" stroke-width="1"/>
+<line x1="585" y1="209" x2="685" y2="209" stroke="#93c5fd" stroke-width="1"/>
+<text x="635" y="165" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">HARVESTING ARRAY</text>
+<line x1="635" y1="240" x2="635" y2="348" stroke="#334155" stroke-width="3"/>
+<rect x="585" y="560" width="100" height="62" fill="#1d4ed8" stroke="#172554" stroke-width="2"/>
+<line x1="605" y1="560" x2="605" y2="622" stroke="#93c5fd" stroke-width="1"/>
+<line x1="625" y1="560" x2="625" y2="622" stroke="#93c5fd" stroke-width="1"/>
+<line x1="645" y1="560" x2="645" y2="622" stroke="#93c5fd" stroke-width="1"/>
+<line x1="665" y1="560" x2="665" y2="622" stroke="#93c5fd" stroke-width="1"/>
+<line x1="585" y1="591" x2="685" y2="591" stroke="#93c5fd" stroke-width="1"/>
+<line x1="635" y1="492" x2="635" y2="560" stroke="#334155" stroke-width="3"/>
+<text x="635" y="648" font-size="13" fill="#475569" text-anchor="middle">wings reach into sunlight; bus stays shaded</text>
+<rect x="560" y="348" width="150" height="144" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="635" y="374" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">PROBE BUS</text>
+<circle cx="635" cy="420" r="26" fill="#1f2937" stroke="#f5a623" stroke-width="3"/>
+<text x="635" y="482" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">BEACON</text>
+<text x="635" y="516" font-size="13" fill="#475569" text-anchor="middle">sensor + relay in one package</text>
+<rect x="540" y="690" width="340" height="78" fill="#dcfce7" stroke="#166534" stroke-width="1.5"/>
+<text x="556" y="716" font-size="15" font-weight="bold" fill="#14532d">SAFETY SYSTEMS</text>
+<text x="556" y="738" font-size="13" fill="#14532d">heat cut-out • beam interlock • fail-secure</text>
+<text x="556" y="758" font-size="13" fill="#14532d">safe if signal is lost; no beam without lock</text>
+<line x1="712" y1="420" x2="878" y2="352" stroke="#e07b00" stroke-width="4" marker-end="url(#arrO)"/>
+<text x="750" y="445" font-size="14" font-weight="bold" fill="#b45309">RELAY BEAM</text>
+<text x="750" y="463" font-size="13" fill="#b45309">energy + data</text>
+<rect x="912" y="322" width="44" height="30" fill="#64748b" stroke="#1f2937" stroke-width="2"/>
+<rect x="862" y="328" width="44" height="18" fill="#1d4ed8" stroke="#172554" stroke-width="1.5"/>
+<rect x="962" y="328" width="44" height="18" fill="#1d4ed8" stroke="#172554" stroke-width="1.5"/>
+<text x="934" y="296" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">RELAY STATION(S)</text>
+<text x="934" y="382" font-size="13" fill="#475569" text-anchor="middle">step the energy home</text>
+<text x="934" y="402" font-size="13" fill="#475569" text-anchor="middle">(chain if one hop is too far)</text>
+<line x1="934" y1="418" x2="1000" y2="596" stroke="#e07b00" stroke-width="4" marker-end="url(#arrO)"/>
+<text x="1010" y="505" font-size="13" fill="#b45309">downlink</text>
+<rect x="900" y="600" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="942" y="600" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="984" y="600" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="1026" y="600" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="1068" y="600" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="900" y="642" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="942" y="642" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="984" y="642" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="1026" y="642" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="1068" y="642" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="900" y="684" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="942" y="684" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="984" y="684" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="1026" y="684" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<rect x="1068" y="684" width="34" height="34" fill="#a7f3d0" stroke="#166534" stroke-width="1.5"/>
+<text x="1000" y="742" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">GROUND RECEIVERS</text>
+<text x="1000" y="762" font-size="13" fill="#475569" text-anchor="middle">rectenna field — low-density beam, safe at ground level</text>
+<rect x="40" y="800" width="1160" height="44" fill="#e2e8f0"/>
+<text x="56" y="828" font-size="15" font-weight="bold" fill="#1f2937">ENERGY PATH: Sun → harvesting array → Beacon relay → relay station → ground receivers → power grid</text>
+<text x="40" y="868" font-size="13" fill="#475569">© 2026 Curtis Ray Dyess · Crimson Rose</text>
+<text x="1200" y="868" font-size="13" fill="#475569" text-anchor="end">DRAFT / GATHERED — Curtis&apos;s concept, not yet declared standing</text>
+</svg>
