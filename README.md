@@ -18,6 +18,10 @@ receivers.
   schematic, drawn programmatically.
 - [shadow-probe-schematic.md](shadow-probe-schematic.md) — full schematic
   document: components, energy path, safety doctrine, open decisions.
+- [ep1-pilot.mp3](ep1-pilot.mp3) — "The Shadow Probe" pilot episode
+  (~18 min), Scientist + Historian. Sponsor read and donations line in the
+  close only. Status: GATHERED — published for review, not yet declared
+  standing.
 
 ## Open decisions (Curtis to decide)
 
